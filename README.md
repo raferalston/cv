@@ -1,61 +1,76 @@
-# Personal Information:
+# Михаил Алексеевич
 
-- Full Name: Mikhail Trubnikov
-- Contact Information: sneakyhuntercompany@gmail.com
-- LinkedIn Profile: [Link](https://www.linkedin.com/in/mikhail-trubnikov-b6b808164/)
-- Some of my projects: [Link](https://github.com/raferalston/portfolio/blob/main/README.md)
+**Python/Django разработчик | Преподаватель программирования**  
+[GitHub](https://github.com/raferalston) | [Telegram](https://t.me/phukettabletop)
 
-![My Photo](https://kidkod.ru/media/images/mike_fOpn9Yb.original.format-webp.webp)
+---
 
-Summary:
-Enthusiastic and dedicated web3 developer with over 5 years of experience in Python, Django, and various web technologies. Adept at building robust and scalable web applications, with a passion for exploring blockchain technology. Strong foundation in front-end technologies, UX/UI design, and a continuous learner with a commitment to staying at the forefront of technological advancements.
+## 🧑‍💻 Обо мне
 
-# Technical Skills:
+Опытный backend-разработчик с более чем 5-летним стажем в создании, сопровождении и развертывании web-приложений. Специализируюсь на Python и Django (включая Django REST Framework), имею опыт построения CMS на Wagtail, работы с очередями задач (Celery + Redis), настройки логирования и мониторинга. Понимаю основы frontend-разработки, владею HTML, CSS (SASS), JavaScript. Несколько лет преподавал языки программирования, умею доносить сложные концепции простым языком. Ориентирован на результат, открыт к новым технологиям и легко встраиваюсь в команду. Ищу удалённую позицию в сильной и продуктивной команде.
 
-- Programming Languages: Python3 (5+ years), JavaScript (Intermediate), Solidity (Beginner)
-- Web Frameworks: Django (DRF as well), Wagtail, Flask, jQuery
-- Solidity Frameworks: web3, brownie
-- Queue Management: Celery
-- Front-end: HTML, CSS, JavaScript (Vanilla), Vue (Beginner), React (Knowing Basics)
-- Database: Redis, SQL
-- Tools: Docker, Figma, AdobeXD, API of anykind, git
-- DevOps: Ubuntu Deployment (Intermediate), Docker (Beginner+)
+---
 
-# Professional Experience:
+## 🛠️ Навыки
 
-## Web Developer
+### Backend
+- Python, Django, Django REST Framework (DRF), Wagtail CMS  
+- Celery, Redis  
+- PostgreSQL, SQLite  
+- Опыт деплоя на VPS/VDS (nginx, supervisor, systemd)  
+- Настройка логирования и мониторинга
 
-Developed and maintained web applications using Python3 and Django.
-Utilized JavaScript for front-end development, transitioning from jQuery to Vanilla JS.
-Implemented Redis for efficient task queue management with Celery.
-Collaborated on UX/UI design projects using Figma and AdobeXD.
+### Frontend
+- HTML5 (вёрстка, семантическая SEO-разметка)  
+- CSS3, SASS  
+- JavaScript (vanilla)
 
-## Blockchain Developer Intern
+### Интеграции и инструменты
+- Telegram-боты  
+- Git, Linux  
+- Docker (базовый уровень)
 
-Actively learning and implementing Solidity for blockchain development.
-Contributing to blockchain projects and gaining hands-on experience in the field.
+### Образование и преподавание
+- Преподавание Python и JavaScript  
+- Разработка учебных курсов  
+- Онлайн и офлайн занятия
 
-# Education:
+---
 
-- Relevant Computer and Programming courses: MIT's free computer science courses. Many webcourses and self studying. 
-- Rolling Scopes School. Studied Node.js for educational purposes, gaining a beginner-level understanding.
-  
-# Projects:
+## 💼 Опыт работы
 
-## Mathematical Exchange for BoardGames Project
+### Фриланс / Проектная работа  
+**Backend и Fullstack-разработчик**  
+*2019 — настоящее время*  
+- Разработка web-приложений на Django и DRF  
+- Интеграция Wagtail CMS  
+- Работа с Celery + Redis  
+- Развёртывание на VPS, настройка серверов  
+- Создание Telegram-ботов  
+- Верстка и JavaScript-функциональность  
+- SEO-оптимизация
 
-Developed a mathematical exchange platform for board games using Python and Django.
+### Образовательный центр *[название]*  
+**Преподаватель Python и JavaScript**  
+*2018 — 2023*  
+- Обучение детей и взрослых программированию  
+- Разработка авторских заданий и курсов  
+- Подготовка к олимпиадам, интенсивы, воркшопы  
+- Проведение онлайн и офлайн занятий
 
-## Programming School Web Application
+---
 
-Created a web application for a programming school, incorporating Django and Wagtail.
+## 💡 Личные качества
 
-## And some other see at [Link](https://github.com/raferalston/portfolio/blob/main/README.md)
+- Быстрая обучаемость  
+- Внимательность к деталям  
+- Умение работать как самостоятельно, так и в команде  
+- Ответственность, коммуникабельность  
+- Ориентирован на результат и качество
 
-About Me:
-Passionate about computer science and committed to continuous learning, I began my programming journey with MIT's computer science courses. Starting with Python projects, I progressed to web 2 technologies, creating services for various interests. Blockchain technology has captivated me, prompting my current focus on immersive learning and collaboration with like-minded individuals.
+---
 
-I am eager to contribute my skills and passion to a dynamic team, leveraging my expertise in web development and blockchain to drive innovative solutions.
+## 🔍 Цели
 
-References:
-Available upon request.
+**Желаемая позиция:** Backend-разработчик (Python/Django)  
+**Интерес:** Современные проекты с акцентом на чистую архитектуру, масштабируемость и автоматизацию процессов
