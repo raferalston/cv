@@ -118,4 +118,4 @@ Backend-разработчик с 5+ летним опытом в классич
 
 - **GitHub:** [github.com/raferalston](https://github.com/raferalston)  
 - **Telegram:** [@phukettabletop](https://t.me/phukettabletop)  
-- **Email:** [like2pwnyou@Yandex.ru](like2pwnyou@Yandex.ru)
+- **Email:** like2pwnyou@Yandex.ru
