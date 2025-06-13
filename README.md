@@ -71,7 +71,7 @@ Backend-разработчик с 5+ летним опытом в классич
 - Интеграция с Telegram API, создание бот-интерфейсов  
 - SEO-оптимизация, быстрая адаптивная верстка  
 - Работа с очередями задач: Celery + Redis  
-- Примеры: [портфолио](https://github.com/raferalston/portfolio/blob/main/README.md)
+- Примеры: [портфолио](https://github.com/raferalston/portfolio)
 
 ---
 
