@@ -35,7 +35,7 @@ Backend-разработчик с 5+ летним опытом в классич
 ## 📌 Ключевые компетенции
 
 ### 🖥 Backend
-- Python, Django, Django REST Framework (DRF)
+- Python, Django, Django REST Framework (DRF), FastApi
 - Wagtail CMS (редакторский интерфейс, кастомизация)
 - Celery, Redis
 - PostgreSQL, SQLite
