@@ -24,6 +24,23 @@ header{height:108px;
   align-items:center;
   justify-content:space-between;
   border-bottom:1px solid var(--line)}
+.header-actions{display:flex;
+  align-items:center;
+  gap:22px}
+.language-switch{display:flex;
+  align-items:center;
+  gap:4px;
+  font-size:11px}
+.language-switch a{min-width:44px;
+  min-height:44px;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid transparent;
+  color:var(--muted)}
+.language-switch a[aria-current="page"]{color:var(--ink);
+  border-color:var(--line);
+  background:#1b252d}
 .brand{display:flex;
   gap:14px;
   align-items:center;
@@ -306,7 +323,24 @@ h1{letter-spacing:-4px}
 .approach h2{font-size:40px}
 }
 @media(max-width:680px){.wrap{width:calc(100% - 40px)}
-header{height:85px}
+header{height:auto;
+  min-height:85px;
+  padding-block:10px;
+  flex-wrap:wrap;
+  row-gap:8px}
+header>.brand{order:1}
+.header-actions{order:2;
+  margin-left:auto;
+  gap:8px}
+header>nav:not(.language-switch){order:3;
+  width:100%;
+  justify-content:space-between;
+  gap:8px;
+  font-size:12px;
+  padding-bottom:3px}
+.language-switch{gap:2px}
+.language-switch a{min-width:44px;
+  min-height:44px}
 .brand b{font-size:33px}
 .brand>span{display:none}
 nav{gap:18px;
@@ -316,7 +350,7 @@ nav{gap:18px;
   padding-top:35px;
   padding-bottom:38px;
   gap:32px}
-h1{font-size:66px;
+h1{font-size:clamp(52px,16vw,66px);
   letter-spacing:-4px;
   margin:24px 0}
 .hero h2{font-size:22px}

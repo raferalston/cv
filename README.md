@@ -2,7 +2,7 @@
 
 **Python Backend Developer · AI-oriented development**
 
-[Персональный сайт](https://raferalston.github.io/cv/) · [Портфолио и примеры кода](https://github.com/raferalston/portfolio) · [Telegram](https://t.me/phukettabletop)
+[CV на русском](https://raferalston.github.io/cv/ru/) · [CV in English](https://raferalston.github.io/cv/en/) · [Портфолио и примеры кода](https://github.com/raferalston/portfolio) · [Telegram](https://t.me/phukettabletop)
 
 Разрабатываю backend, REST API, интеграции и фоновые процессы. Беру ответственность за полный цикл — от проработки задачи и архитектуры до релиза и эксплуатации.
 
@@ -64,4 +64,8 @@ Python · Django · Django REST Framework · FastAPI · asyncio · PostgreSQL ·
 python3 -m http.server 8793 --bind 127.0.0.1
 ```
 
-Открыть http://127.0.0.1:8793/. GitHub Pages публикует корень ветки `main`; `.nojekyll` отключает обработку Jekyll.
+Открыть http://127.0.0.1:8793/ru/ или http://127.0.0.1:8793/en/. Корневой адрес сохраняет русскую версию для существующих ссылок.
+
+Переключатель RU / EN использует обычные ссылки: язык задаётся адресом страницы и не зависит от JavaScript или настроек браузера. Обе версии используют общие стили, фото и favicon; при обновлении резюме нужно синхронно править русские страницы `index.html` и `ru/index.html` и английскую `en/index.html`.
+
+GitHub Pages публикует корень ветки `main`; `.nojekyll` отключает обработку Jekyll.
